@@ -30,7 +30,7 @@ base64
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/smart-document-analyzer.git
+git clone https://github.com/PeterMamdouh678/smart-document-analyzer.git
 cd smart-document-analyzer
 ```
 
